@@ -1,0 +1,15 @@
+str(mpg)
+
+a <-  mpg %>% filter(manufacturer=="audi")
+a %>% arrange(desc(hwy)
+
+
+#“audi”에서 생산한 자동차 중 hwy가 1~5에 해당하는 자동차의 #데이터를 출력하라.
+audi a6 quattro   4.2 2008   8   auto(s6)   4  16  23
+2          audi a6 quattro   2.8 1999   6   auto(l5)   4  15  24
+3          audi a4 quattro   1.8 1999   4   auto(l5)   4  16  25
+4          audi a4 quattro   2.8 1999   6   auto(l5)   4  15  25
+5          audi a4 quattro   2.8 1999   6 manual(m5)   4  17  25
+
+
+#[ 문제 06-5-1 ]
